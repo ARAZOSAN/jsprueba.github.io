@@ -1,4 +1,4 @@
-getLocation('111147532');
+getLocation('111147532');adas
 function getLocation(controlId) {
     if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(function(position){
